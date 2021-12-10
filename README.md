@@ -10,7 +10,7 @@ I'm **Qamber Haider**. currently working as a **React Native Developer**.
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png" alt="HTML5"></code>
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS3"></code>
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/919/919832.png" alt="typescript"></code>
-<code><img height="30" src="https://cdn-icons.flaticon.com/png/512/3098/premium/3098090.png?token=exp=1634986087~hmac=930cb62f29be6e8d41a920ac7bf143d9" alt="python"></code>
+<code><img height="30" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python"></code>
 
 ### Social
 
